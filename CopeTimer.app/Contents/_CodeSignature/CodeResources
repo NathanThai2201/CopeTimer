@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/CopeTimer.py</key>
 		<data>
-		P3vu5cH38c3VhDd1gIs47Ii56Qo=
+		WXKJ/W7AMYeoCO4MZs525xL+wto=
 		</data>
 		<key>Resources/__boot__.py</key>
 		<data>
@@ -282,7 +282,7 @@
 		</data>
 		<key>Resources/lib/python311.zip</key>
 		<data>
-		/cQFr97bqNObkKWUV7ZtGQidXTM=
+		r6R9kkYf/k5BLbS24VCWOdT32SA=
 		</data>
 		<key>Resources/lib/tcl8.6/auto.tcl</key>
 		<data>
@@ -1882,11 +1882,11 @@
 		</data>
 		<key>Resources/site.pyc</key>
 		<data>
-		0yonuoj0xxxmRmEI9p7fhKRVhbg=
+		BIHg2qd7FIK7YAa4Z8oMfhMUqxA=
 		</data>
 		<key>Resources/sounds/ring.wav</key>
 		<data>
-		i8ACJtU7YpL8JfApV1PnF7IOiXw=
+		ekPAWszIBFsu7PV5urPGxYUBkx0=
 		</data>
 		<key>Resources/zlib.cpython-311-darwin.so</key>
 		<data>
@@ -1953,11 +1953,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			P3vu5cH38c3VhDd1gIs47Ii56Qo=
+			WXKJ/W7AMYeoCO4MZs525xL+wto=
 			</data>
 			<key>hash2</key>
 			<data>
-			8Nk7pUcCLVTiu1RkvZxEdVAb5Xap858/zxJLn7xLd30=
+			VeI/enNKGLUR463KFusv72w3vcPo9EXh6/arevFkTFw=
 			</data>
 		</dict>
 		<key>Resources/__boot__.py</key>
@@ -2717,11 +2717,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/cQFr97bqNObkKWUV7ZtGQidXTM=
+			r6R9kkYf/k5BLbS24VCWOdT32SA=
 			</data>
 			<key>hash2</key>
 			<data>
-			B5unq3mLc9zcyd5ynbqTHEzaQEVxnhlyuNIarwzMK24=
+			5cv9uxVbTZG2Yx7YFSfjMDDxhzAMuFgNjFFDg+Vzwyk=
 			</data>
 		</dict>
 		<key>Resources/lib/tcl8.6/auto.tcl</key>
@@ -7117,22 +7117,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0yonuoj0xxxmRmEI9p7fhKRVhbg=
+			BIHg2qd7FIK7YAa4Z8oMfhMUqxA=
 			</data>
 			<key>hash2</key>
 			<data>
-			Luy12bcJXB/ew794VT/5UsPgc2oD4VAuZT6Rx0qku/w=
+			RaNXqEBGyzKFFMVbJoYXmnFHdAa27dmhM+osuK8vuCU=
 			</data>
 		</dict>
 		<key>Resources/sounds/ring.wav</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			i8ACJtU7YpL8JfApV1PnF7IOiXw=
+			ekPAWszIBFsu7PV5urPGxYUBkx0=
 			</data>
 			<key>hash2</key>
 			<data>
-			nBsohQyAmlZiqzK1QeiWRhI/pFDBmzoPdKF/icw7CFM=
+			1VPEYBpio0HjTdQBX2B+J+nM3TZT6mdOGjqcsVVgPTk=
 			</data>
 		</dict>
 		<key>Resources/zlib.cpython-311-darwin.so</key>
