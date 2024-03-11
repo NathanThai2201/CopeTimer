@@ -28,6 +28,10 @@
 		<data>
 		hU/0WURa1Y9PASTUzL8LnBVhkdw=
 		</data>
+		<key>Resources/images/icon.png</key>
+		<data>
+		hU/0WURa1Y9PASTUzL8LnBVhkdw=
+		</data>
 		<key>Resources/include/python3.11/pyconfig.h</key>
 		<data>
 		lH/derADm2tLj8cuUQDq+wfiKpI=
@@ -290,7 +294,7 @@
 		</data>
 		<key>Resources/lib/python311.zip</key>
 		<data>
-		PcHfxHx0HkypOPBGz5s9EQqXVmg=
+		Pldr50RP9lGEkAckTd+4nNoSVC0=
 		</data>
 		<key>Resources/lib/tcl8.6/auto.tcl</key>
 		<data>
@@ -1890,7 +1894,7 @@
 		</data>
 		<key>Resources/site.pyc</key>
 		<data>
-		k9XeC70iTty+YKGKgoXXv81NIaQ=
+		HQJXgtqc8agEjOR23JAY4U0zrqE=
 		</data>
 		<key>Resources/sounds/ring1.wav</key>
 		<data>
@@ -2021,6 +2025,17 @@
 			</data>
 		</dict>
 		<key>Resources/icon.icns</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hU/0WURa1Y9PASTUzL8LnBVhkdw=
+			</data>
+			<key>hash2</key>
+			<data>
+			dUjft2/ZjE31m9SvTY8jgy39YTlISk0JV8PNf8aR8TE=
+			</data>
+		</dict>
+		<key>Resources/images/icon.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -2755,11 +2770,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PcHfxHx0HkypOPBGz5s9EQqXVmg=
+			Pldr50RP9lGEkAckTd+4nNoSVC0=
 			</data>
 			<key>hash2</key>
 			<data>
-			+XJuQsLbm/+ukTfbZcn8SpfzxpSOQy5EvRCb/ef5sRU=
+			s62DzLihVT606dcX/coe5/C6FCcTimxhTOmM7+ZafC4=
 			</data>
 		</dict>
 		<key>Resources/lib/tcl8.6/auto.tcl</key>
@@ -7155,11 +7170,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			k9XeC70iTty+YKGKgoXXv81NIaQ=
+			HQJXgtqc8agEjOR23JAY4U0zrqE=
 			</data>
 			<key>hash2</key>
 			<data>
-			YW5R2Ps3LmuwTpiRxMx2qhDAiNOU68+urltnqnHW8ZI=
+			wEPczeaMDUNGM48qgzobM7Fo4pHDa+STCXxTH//avl0=
 			</data>
 		</dict>
 		<key>Resources/sounds/ring1.wav</key>
